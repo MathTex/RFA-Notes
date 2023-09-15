@@ -1,0 +1,65 @@
+%!TEX root = ../main.tex
+
+\chapter{Set Theory}
+\thispagestyle{empty}
+
+\section*{Equipotent, finite/infinite, countable/uncountable sets, cardinality of continoum}
+
+Let $X,Y$ be sets.
+
+\begin{defn}[Equipotent sets]$\\$
+$X,Y$ are equipotent if there exists a bijection $f:X\to Y$ (1-1 injective + onto surjective).
+\end{defn}
+
+If $X,Y$ are equipotent, then they have the same cardinality. On the other hand, $X$ has cardinality $\geq$ than $Y$ if there exists $f:X\to Y$ onto. For example, for
+\begin{equation*}
+X= 
+\begin{pmatrix}
+ 1\\
+ 2\\
+ 3
+\end{pmatrix} \qquad Y=\begin{pmatrix}
+ 1\\
+ 2
+\end{pmatrix}
+\end{equation*}
+
+exists $f:X\to Y$ s.t. $\forall y\in Y\ \exists x\in X$ s.t. $f(x)=y$ ($f$ \emph{takes} all the elements of the codomain), but doesn't exist $g:Y\to X$ s.t. $\forall x\in X\ \exists y\in Y$ s.t. $g(y)=x$ ($g$ doesn't \emph{take} all the elements of the codomain).
+
+\begin{defn}[Finite/infinite sets]$\\$
+$X$ is finite if it is equipotent to $Y=\{1,2,...,k\}$ for some $k\in\NN$. $X$ is infinite otherwise.
+\end{defn}
+
+\begin{prp}
+$X$ is infinite iff it is equipotent to a proper subset, i.e. if exists a bijection between $X$ and one of his subsets.
+\end{prp}
+
+For example, between the integers set $\ZZ=\{0,\pm1,\pm2,...\}$ and the even integers set $\{0,\pm2,\pm4,...\}$ there exists $f$ s.t. $f(z)=2z$ which is a bijection.
+
+\begin{defn}[Countable/uncountable (infinite) sets]$\\$
+$X$ inifinite is countable if it is equipotent to $\NN$. It is uncountable otherwise, in which case is more than countable (countable sets are the "smallest" among infinite sets).
+\end{defn}
+
+\begin{defn}[Cardinality of continoum]$\\$
+$X$ has the cardinality of continoum if it is equipotent to $\RR$. Any such set is uncountable.
+\end{defn}
+
+For example:
+\begin{itemize}
+	\item $\NN,\ZZ,\QQ$ are countable
+	\item $\RR,\RR^N,(0,1),(0,1)^N$ have the cardinality of continoum
+	\item countable unions of countable sets are countable
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
