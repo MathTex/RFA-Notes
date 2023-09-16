@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1694875802 "main.tex" "main.pdf" "main" 1694875803 0
+["pdflatex"] 1694876558 "main.tex" "main.pdf" "main" 1694876560 0
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -382,11 +382,11 @@
   "images//endrc.png" 1694873823 17958 6ee5a5fe27da3e539af4a251504f29a8 ""
   "images/logo_blackCL.jpg" 1677244272 23518 a63cfb5a02a2b661a640b3f9f70e1f65 ""
   "images/logo_polimi.jpg" 1677245382 41707 dd59ea4e24ccb2a09e9bd3368486415f ""
-  "main.aux" 1694875803 15050 0c6613e64a37bd137fead999ae08e18f "pdflatex"
+  "main.aux" 1694876560 15050 0c6613e64a37bd137fead999ae08e18f "pdflatex"
   "main.tex" 1694867845 3505 eaf0d8bade17a53eaf1964a1d0e84af1 ""
-  "main.toc" 1694875803 2348 9022be44763c670aa31ef23def86ff94 "pdflatex"
+  "main.toc" 1694876560 2348 9022be44763c670aa31ef23def86ff94 "pdflatex"
   "teoria/cap0.tex" 1694797076 1976 70e3f99417b7fcabd9b3a08cb1fa9840 ""
-  "teoria/cap1.tex" 1694875801 6152 cedb428c2c900bab265bec270390102c ""
+  "teoria/cap1.tex" 1694876558 6156 5325d44ee8a74352166919603af8bbd1 ""
   "teoria/cap10.tex" 1694795609 58 fa5da131155a41d27e65cd019548a644 ""
   "teoria/cap11.tex" 1694795627 58 fa5da131155a41d27e65cd019548a644 ""
   "teoria/cap12.tex" 1694795631 58 fa5da131155a41d27e65cd019548a644 ""
